@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Shumate
 
-I'm a data analyst with 10+ years of experience working in pharmaceutical R&D, where I've supported drug discovery and clinical development with data-driven insights.
+I'm a data scientist with 10+ years of experience working in pharmaceutical R&D, where I've supported drug discovery and clinical development with data-driven insights.
 I specialize in transforming complex datasets into clear, actionable stories using R, the tidyverse, and Quarto.
 
 ## 💊 Professional Background
